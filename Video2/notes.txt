@@ -1,0 +1,28 @@
+what is IDE
+
+IDE stand for integrated development environment
+
+Need of IDE
+
+streamlines development 
+productivity
+simplifies tasks
+
+
+
+what is REPL
+
+javascript code interactively
+used for quick testing
+provides direct access to node,js APIs for experimentation
+customizable
+
+how to open REPL
+REPL is nothing but terminal 
+terminal kholo usme node likho toh REPL chl jaega usme js code kr skte ho 
+(JAISE JAVASCRIPT KI SERIES ME KBHI KBHI BROWER KE CONSOLE ME CODE KRTE THE VAISA HE H YE)
+
+R   ------------>   READ
+E   ------------>   EVALUATE
+P   ------------>   PRINT
+L   ------------>   LOOP
